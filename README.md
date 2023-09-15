@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/h73hZt6EyS4kpMTRRj/giphy.gif" width="70"> 
+<img src="https://media.giphy.com/media/ulZ7gQQz9jwZzv224n/giphy.gif" width="150"> 
 
 ## :woman_technologist: Обо мне
 Меня зовут Павел, я QA Engineer из Брянска (Россия).
