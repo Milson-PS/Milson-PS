@@ -21,7 +21,7 @@
 ### :hammer_and_wrench: Языки и инструменты:
 <div>
   <img src="https://github.com/Milson-PS/Milson-PS/blob/main/img/logos/python.webp" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://https://github.com/Milson-PS/Milson-PS/tree/main/img/logos/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/Milson-PS/Milson-PS/blob/main/img/logos//sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/Milson-PS/Milson-PS/tree/main/img/logos/pytest.png" title="Pytest" alt="Pytest" width="45" height="45"/>&nbsp; 
   <img src="https://github.com/Milson-PS/Milson-PS/tree/main/img/logos/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;  
   <img src="https://https://github.com/Milson-PS/Milson-PS/tree/main/img/logos/selene.png" title="Selene" alt="Selene" width="50" height="50"/>&nbsp;
