@@ -6,7 +6,7 @@
 
 - :seedling: Профессиональные компетенции в создании процессов обеспечения качества и тестовой документации.
 
-- :bookmark_tabs: <a target="_blank" href="cv/mps,pdf">Резюме</a>
+- :bookmark_tabs: <a target="_blank" href="cv/mps.pdf">Резюме</a>
 
 - :mailbox_with_mail:	Как меня найти:<p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -14,8 +14,7 @@
   &#8287;
   <a href="https://vk.com/pavel.milukov"><img width="32px" alt="VK" title="Vk" src="img/logos/vk.png"/></a>
   &#8287;
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="37px" alt="Write me Email" title="Yandex" src="images/social_networks/gmail.png"/></a>
-</p>
+ 
 
 
 ### :hammer_and_wrench: Языки и инструменты:
