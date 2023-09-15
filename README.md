@@ -10,9 +10,9 @@
 
 - :mailbox_with_mail:	Как меня найти:<p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Milson_PS"><img width="32px" alt="Telegram" title="Telegram" src="img/logos/vk.png"/></a>
+  <a href="https://t.me/Milson_PS"><img width="32px" alt="Telegram" title="Telegram" src="img/logos/tg.png"/></a>
   &#8287;
-  <a href="https://vk.com/pavel.milukov"><img width="32px" alt="VK" title="Vk" src="img/logos//vk.png"/></a>
+  <a href="https://vk.com/pavel.milukov"><img width="32px" alt="VK" title="Vk" src="img/logos/vk.png"/></a>
   &#8287;
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="37px" alt="Write me Email" title="Yandex" src="images/social_networks/gmail.png"/></a>
 </p>
