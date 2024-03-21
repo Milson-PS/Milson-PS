@@ -36,5 +36,5 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="project_ui_and_api_autotests_for_stepik">UI, API autotests example</a>  | :iphone: <a target="_blank" href= "сылка на проект">Mobile UI autotests example</a> |
+| :world_map: <a target="_blank" href="project_ui_and_api_autotests_for_stepik">UI, API autotests example</a> 
 |----------------|---------------|
