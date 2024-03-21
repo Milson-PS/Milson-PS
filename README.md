@@ -36,4 +36,5 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="[project_ui_and_api_autotests_for_stepik](https://github.com/Milson-PS/robotframework)https://github.com/Milson-PS/robotframework">UI, API autotests example</a> 
+| :world_map: <a target="_blank" href="[https://github.com/Milson-PS/robotframework](">UI, API autotests example</a> 
+
