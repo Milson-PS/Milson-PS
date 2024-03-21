@@ -38,4 +38,4 @@
 
 | :world_map: <a target="_blank" href="[https://github.com/Milson-PS/robotframework]">UI, API autotests example</a> 
 
-<a target=[https://github.com/Milson-PS/robotframework] ">UI, API autotests example</a> 
+https://github.com/Milson-PS/robotframework
