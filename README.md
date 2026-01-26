@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/ulZ7gQQz9jwZzv224n/giphy.gif" width="150"> 
 
 ## :woman_technologist: Обо мне
-Меня зовут Павел, я QA Engineer из Брянска (Россия).
+Меня зовут Павел, я QA Engineer из Москвы.
 - :rocket: У меня более 5-х лет опыта ручного тестирования, а также небольшой опыт автотестов на Python и Java
 
 
