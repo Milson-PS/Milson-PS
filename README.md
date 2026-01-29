@@ -36,8 +36,8 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="[https://github.com/Milson-PS/robotframework]">UI, API autotests example</a> 
-https://github.com/Milson-PS/robotframework
+| :world_map: <a target="_blank" href="[https://github.com/Milson-PS/int_alph]">UI, API autotests example</a> 
+https://github.com/Milson-PS/int_alph
 
 
 
